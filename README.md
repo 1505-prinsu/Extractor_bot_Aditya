@@ -62,7 +62,7 @@ python3 main.py
 
 ## Deploy To Render                  
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/Adityarathod123/Extractor_bot_Aditya
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://render.com/deploy?repo=https://github.com/1505-prinsu/Extractor_bot_Aditya
 
 
 ## Deploy To Koyeb
